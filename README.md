@@ -1,2 +1,2 @@
 # MyZjuByteDancer
-Android project
+Android project for zju-bytedance summer project.
