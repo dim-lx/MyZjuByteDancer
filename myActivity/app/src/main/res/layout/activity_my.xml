@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MyActivity"
+    android:background="@drawable/backimg">
+
+    <ImageView
+        android:id="@+id/p1"
+        android:layout_width="267dp"
+        android:layout_height="233dp"
+        android:layout_marginEnd="72dp"
+        android:layout_marginRight="72dp"
+        android:layout_marginBottom="348dp"
+        android:foregroundGravity="center"
+        android:src="@mipmap/tang"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageView
+        android:id="@+id/p2"
+        android:layout_width="28dp"
+        android:layout_height="29dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginRight="92dp"
+        android:layout_marginBottom="244dp"
+        android:foregroundGravity="center"
+        android:src="@mipmap/speaker"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="300dp"
+        android:text="2021-07-13 获得"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="244dp"
+        android:text="坐姿魔范生"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="208dp"
+        android:text="恭喜你成为自习室中最靓的坐姿魔范生！"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView4n"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="152dp"
+        android:text="表扬次数 50/50次"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="146dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="68dp"
+        android:text="去自习"
+        android:textSize="28sp"
+        android:textColor="#ffffff"
+        android:background="@drawable/button_circle_shape"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
