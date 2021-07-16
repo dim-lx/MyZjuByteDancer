@@ -8,3 +8,5 @@ Homework2 ———— myActivity
 Homework3 ———— Fragment
 
 Homework4 ———— ClockView
+
+Homework5 ———— MessageBoard
