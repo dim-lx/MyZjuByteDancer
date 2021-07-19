@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/6455a1c96ba6ccc33deaf6ccb8780688/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/72ccac39cfbeaeac22cd9783b01dfded/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/731d0642479a5264a0d9afde434c7a08/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/8e5a8b8441608835ba8deecd16e196e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b3754d50afa411dc06e74fd9b647c957/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ed14b5ac57298a5160c79e29ac4eacfc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ddde235740bb49335ed0e9c2665cead6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/4ce49e195c57b89f6268ce394265ad72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/f2393263f23963401bbafd532f9dd0d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ad70d15902ba2b0c609818e966266149/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9b1da991ab7f20f8287845598c9ee9f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/6a2201ca3d9612c5e0b379123e89624c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/3e7f4acc8c94445d675295332f80de92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/397def4d9a665df98afced5696d88326/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/a52dd9bbb4a8409f166657653d4880bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/970b68c5639898abe8b079c7d2d287e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5c9a2d7ab3656c3ba1c4dff67089a9ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b239f791e9dc1613b2d9b084baa40782/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5df31535228d6c565905c39f62c802bd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/51805b7fa34ada15a284471b03b0cc41/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0379778a7ccea492780cf32ca1347804/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/7c22d5b8403cc7089c28d6ae8d8d473f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/cf43c82800c1f911141cdf83dad63671/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/a6ecde5312716709acc55123e34e394f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/2ff1727c33db858ac6efc667cb2df7fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/1435836fa6d4800ceb0b86629d937219/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/fc6d3cd3cb4286bdb9616d06f4d06e7b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/df9f3d560af7eedf3fecccc299546a61/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e3852e83cac766b37b6ab3923eb3e2db/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/4cb4ac304629c054fdc6389882b2b2b9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9bf61c07b25f78796662dbfe5f7eeec7/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:4:5-38
+		INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support:design:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/6455a1c96ba6ccc33deaf6ccb8780688/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/6455a1c96ba6ccc33deaf6ccb8780688/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/731d0642479a5264a0d9afde434c7a08/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/731d0642479a5264a0d9afde434c7a08/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5df31535228d6c565905c39f62c802bd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5df31535228d6c565905c39f62c802bd/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/51805b7fa34ada15a284471b03b0cc41/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/51805b7fa34ada15a284471b03b0cc41/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5df31535228d6c565905c39f62c802bd/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.byted.camp.todolist.MainActivity
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.byted.camp.todolist.debug.DebugActivity
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:26:19-54
+activity#com.byted.camp.todolist.NoteActivity
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:27:19-47
+activity#com.byted.camp.todolist.debug.FileDemoActivity
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:28:19-57
+activity#com.byted.camp.todolist.debug.SpDemoActivity
+ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:29:9-58
+	android:name
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml:29:19-55
+uses-sdk
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/6455a1c96ba6ccc33deaf6ccb8780688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/6455a1c96ba6ccc33deaf6ccb8780688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/72ccac39cfbeaeac22cd9783b01dfded/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/72ccac39cfbeaeac22cd9783b01dfded/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/731d0642479a5264a0d9afde434c7a08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/731d0642479a5264a0d9afde434c7a08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/8e5a8b8441608835ba8deecd16e196e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/8e5a8b8441608835ba8deecd16e196e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b3754d50afa411dc06e74fd9b647c957/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b3754d50afa411dc06e74fd9b647c957/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ed14b5ac57298a5160c79e29ac4eacfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ed14b5ac57298a5160c79e29ac4eacfc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ddde235740bb49335ed0e9c2665cead6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ddde235740bb49335ed0e9c2665cead6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/4ce49e195c57b89f6268ce394265ad72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/4ce49e195c57b89f6268ce394265ad72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/f2393263f23963401bbafd532f9dd0d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/f2393263f23963401bbafd532f9dd0d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ad70d15902ba2b0c609818e966266149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ad70d15902ba2b0c609818e966266149/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9b1da991ab7f20f8287845598c9ee9f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9b1da991ab7f20f8287845598c9ee9f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/6a2201ca3d9612c5e0b379123e89624c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/6a2201ca3d9612c5e0b379123e89624c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/3e7f4acc8c94445d675295332f80de92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/3e7f4acc8c94445d675295332f80de92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/397def4d9a665df98afced5696d88326/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/397def4d9a665df98afced5696d88326/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/a52dd9bbb4a8409f166657653d4880bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/a52dd9bbb4a8409f166657653d4880bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/970b68c5639898abe8b079c7d2d287e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/970b68c5639898abe8b079c7d2d287e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5c9a2d7ab3656c3ba1c4dff67089a9ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5c9a2d7ab3656c3ba1c4dff67089a9ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b239f791e9dc1613b2d9b084baa40782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b239f791e9dc1613b2d9b084baa40782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5df31535228d6c565905c39f62c802bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5df31535228d6c565905c39f62c802bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/51805b7fa34ada15a284471b03b0cc41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/51805b7fa34ada15a284471b03b0cc41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0379778a7ccea492780cf32ca1347804/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0379778a7ccea492780cf32ca1347804/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/7c22d5b8403cc7089c28d6ae8d8d473f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/7c22d5b8403cc7089c28d6ae8d8d473f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/cf43c82800c1f911141cdf83dad63671/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/cf43c82800c1f911141cdf83dad63671/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/a6ecde5312716709acc55123e34e394f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/a6ecde5312716709acc55123e34e394f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/2ff1727c33db858ac6efc667cb2df7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/2ff1727c33db858ac6efc667cb2df7fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/1435836fa6d4800ceb0b86629d937219/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/1435836fa6d4800ceb0b86629d937219/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/fc6d3cd3cb4286bdb9616d06f4d06e7b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/fc6d3cd3cb4286bdb9616d06f4d06e7b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/df9f3d560af7eedf3fecccc299546a61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/df9f3d560af7eedf3fecccc299546a61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e3852e83cac766b37b6ab3923eb3e2db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e3852e83cac766b37b6ab3923eb3e2db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/4cb4ac304629c054fdc6389882b2b2b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/4cb4ac304629c054fdc6389882b2b2b9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9bf61c07b25f78796662dbfe5f7eeec7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9bf61c07b25f78796662dbfe5f7eeec7/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shenwenhao/AndroidStudioProjects/todolist/app/src/main/AndroidManifest.xml
