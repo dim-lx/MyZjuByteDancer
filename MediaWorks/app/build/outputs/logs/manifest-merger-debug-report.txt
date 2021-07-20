@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c6352ba65d11f015317caec58912a567/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e93146456c02b1ca8902766fd2a5a7c1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/808fb84bd3d7af76d77f9aa21b2fd1e0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/644f90153a01fb34a76ce24e81966222/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e5285bc22a60655db9d0e6d76d265341/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/cc6071f10136720596121fc9bf9093b7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ded4c779f5a638dd37ae1ff0ae318fe4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0979e2882c4ead159abf45426072e83c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ea9f201aef470354a10431f35409fa1a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/10fb69481ba7f6644738c88a4f881940/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5c4cc80092f677fcd91406e826ceffd3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c30b5c0b1e093c44171eaa6a31c30d6b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0dbf8f4a3ecf29ccfcd18d4929aeaef7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/13155b62c2f249e1375dc9d5704a2c17/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/64066806708c97cf3c4067b45d5f4330/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e3d3113b2aa850b0df2bbd9588182fa3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/65020e335359976f66f7a7de2f81d006/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b830c9f1dbb369691c6b9beb61dba986/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5b99614dfa65133e1a0a7f3bc15fa575/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/06a78b5f9249965dd2e5e1559e4f42f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b8646a1b601f42aa3d0fec66e2240772/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/072070a1635ffc17f13a89d7220ce6cc/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9823e12455d2d36a6d34114fe4ec3ab9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c408e111ee5c2008eb671eea8a85ba8c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9d147f7ee3b691ccf4be6853290b0c4a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/3e59015d21363ac3deef8c97e49b102e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0503faed295f146bddbf58aa41f06430/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/abc7c9b28687975a1c68396d3810e115/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e71ad1e509dd43b8b6525816d8d682c9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:6:5-22:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c6352ba65d11f015317caec58912a567/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c6352ba65d11f015317caec58912a567/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/808fb84bd3d7af76d77f9aa21b2fd1e0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/808fb84bd3d7af76d77f9aa21b2fd1e0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/644f90153a01fb34a76ce24e81966222/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/644f90153a01fb34a76ce24e81966222/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b830c9f1dbb369691c6b9beb61dba986/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b830c9f1dbb369691c6b9beb61dba986/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b8646a1b601f42aa3d0fec66e2240772/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b8646a1b601f42aa3d0fec66e2240772/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/072070a1635ffc17f13a89d7220ce6cc/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/072070a1635ffc17f13a89d7220ce6cc/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b830c9f1dbb369691c6b9beb61dba986/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:12:9-52
+activity#com.example.mediaworksdemo.MainActivity
+ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.mediaworksdemo.PictureDetailActivity
+ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:20:9-59
+	android:name
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:20:19-56
+activity#com.example.mediaworksdemo.VideoDetailActivity
+ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:21:9-57
+	android:name
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml:21:19-54
+uses-sdk
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c6352ba65d11f015317caec58912a567/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c6352ba65d11f015317caec58912a567/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e93146456c02b1ca8902766fd2a5a7c1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e93146456c02b1ca8902766fd2a5a7c1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/808fb84bd3d7af76d77f9aa21b2fd1e0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/808fb84bd3d7af76d77f9aa21b2fd1e0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/644f90153a01fb34a76ce24e81966222/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/644f90153a01fb34a76ce24e81966222/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e5285bc22a60655db9d0e6d76d265341/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e5285bc22a60655db9d0e6d76d265341/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/cc6071f10136720596121fc9bf9093b7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/cc6071f10136720596121fc9bf9093b7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ded4c779f5a638dd37ae1ff0ae318fe4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ded4c779f5a638dd37ae1ff0ae318fe4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0979e2882c4ead159abf45426072e83c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0979e2882c4ead159abf45426072e83c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ea9f201aef470354a10431f35409fa1a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/ea9f201aef470354a10431f35409fa1a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/10fb69481ba7f6644738c88a4f881940/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/10fb69481ba7f6644738c88a4f881940/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5c4cc80092f677fcd91406e826ceffd3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5c4cc80092f677fcd91406e826ceffd3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c30b5c0b1e093c44171eaa6a31c30d6b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c30b5c0b1e093c44171eaa6a31c30d6b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0dbf8f4a3ecf29ccfcd18d4929aeaef7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0dbf8f4a3ecf29ccfcd18d4929aeaef7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/13155b62c2f249e1375dc9d5704a2c17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/13155b62c2f249e1375dc9d5704a2c17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/64066806708c97cf3c4067b45d5f4330/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/64066806708c97cf3c4067b45d5f4330/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e3d3113b2aa850b0df2bbd9588182fa3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e3d3113b2aa850b0df2bbd9588182fa3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/65020e335359976f66f7a7de2f81d006/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/65020e335359976f66f7a7de2f81d006/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b830c9f1dbb369691c6b9beb61dba986/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b830c9f1dbb369691c6b9beb61dba986/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5b99614dfa65133e1a0a7f3bc15fa575/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/5b99614dfa65133e1a0a7f3bc15fa575/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/06a78b5f9249965dd2e5e1559e4f42f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/06a78b5f9249965dd2e5e1559e4f42f3/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b8646a1b601f42aa3d0fec66e2240772/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/b8646a1b601f42aa3d0fec66e2240772/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/072070a1635ffc17f13a89d7220ce6cc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/072070a1635ffc17f13a89d7220ce6cc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9823e12455d2d36a6d34114fe4ec3ab9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9823e12455d2d36a6d34114fe4ec3ab9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c408e111ee5c2008eb671eea8a85ba8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/c408e111ee5c2008eb671eea8a85ba8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9d147f7ee3b691ccf4be6853290b0c4a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/9d147f7ee3b691ccf4be6853290b0c4a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/3e59015d21363ac3deef8c97e49b102e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/3e59015d21363ac3deef8c97e49b102e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0503faed295f146bddbf58aa41f06430/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/0503faed295f146bddbf58aa41f06430/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/abc7c9b28687975a1c68396d3810e115/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/abc7c9b28687975a1c68396d3810e115/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e71ad1e509dd43b8b6525816d8d682c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/shenwenhao/gradle-5.1.1/caches/transforms-2/files-2.1/e71ad1e509dd43b8b6525816d8d682c9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shenwenhao/Downloads/android-campus-2021/chapter-7/MediaWorksDemo/app/src/main/AndroidManifest.xml

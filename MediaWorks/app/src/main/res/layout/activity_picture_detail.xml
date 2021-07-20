@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fddm"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/iv_detail"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="50dp"
+        android:src="#000000"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <Button
+        android:id="@+id/btn_load_success"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:text="有效url"
+        android:textSize="20sp"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <Button
+        android:id="@+id/btn_load_fail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="无效url"
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@id/btn_load_success"
+        />
+
+    <Button
+        android:id="@+id/btn_rounded_corners"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="圆角图片"
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@id/btn_load_fail"
+        />
+
+    <Button
+        android:id="@+id/btn_fade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="渐变展示"
+        android:textSize="20sp"
+        app:layout_constraintTop_toBottomOf="@id/btn_rounded_corners"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
